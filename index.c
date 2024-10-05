@@ -23,7 +23,7 @@ struct Reservation {
 
 struct Reservation reservations[MAXRESERVATIONS];
 
-int reservationsCounter = 10;
+int reservationsCounter = 4;
 
 int afficherTousLesReservations() {
     system("cls");
